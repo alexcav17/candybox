@@ -1,7 +1,7 @@
 var candies = {
 
     // Variables
-    nbrOwned : 0,
+    nbrOwned : 99999999999,
     nbrEaten : 0,
     nbrThrown : 0,
     nbrTotal : 0, // The total number we earned in all times
